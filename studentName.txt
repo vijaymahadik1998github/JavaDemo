@@ -1,7 +1,7 @@
 The name of Student:
 pavan
 vijay
-akashay
+akshay
 vishal
 ram 
 shyam
