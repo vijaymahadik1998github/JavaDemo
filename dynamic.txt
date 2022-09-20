@@ -1,0 +1,30 @@
+Class A
+{
+int x=10;
+
+void m1(){
+}
+}
+Class B extends A{
+
+int x=20;
+int y=30;
+
+void m1(){
+}
+void m2(){
+}
+}
+
+Class MainTest{
+
+public static void main(String []args){
+
+
+A a=new A();
+
+System.out.println(a.x);
+System.out.println(a.y);
+
+
+}
